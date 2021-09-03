@@ -1,6 +1,3 @@
-console.log("teste")
-alert("Teste")
-
 function snapCrackle(z){
     let x = ""
 
@@ -23,9 +20,7 @@ function snapCrackle(z){
 
         if (y !== z){
             x+= ", "
-        }
-        
-        
+        }        
     }
     
     return x
